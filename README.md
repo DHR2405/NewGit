@@ -1,0 +1,2 @@
+# NewGit
+First Git Repo
